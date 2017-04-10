@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a91880e6-5f4b-4a79-8747-a9100460b1da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="a91880e6-5f4b-4a79-8747-a9100460b1da" name="Default" comment="" />
     <ignored path="spring-boot-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -794,12 +792,12 @@
       <created>1491838833867</created>
       <option name="number" value="Default" />
       <updated>1491838833867</updated>
-      <workItem from="1491838836249" duration="1000000" />
+      <workItem from="1491838836249" duration="1155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1000000" />
+    <option name="totallyTimeSpent" value="1155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="6" />
